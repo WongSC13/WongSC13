@@ -25,7 +25,7 @@ Projects:
 
 •	[21 Days to Data Challenge - OpenRefine, Flourish, Tableau, SQL, and Python](https://www.linkedin.com/pulse/what-i-learned-21-days-data-carol-wong/?trackingId=Gcukgvr9RUi2yPqwpj9S4g%3D%3D)
 
-•	[R Project – Bellabeat Case Study](https://github.com/WongSC13/R_Project_Bellabeat_Case_Study)
+•	[R Project – Bellabeat Case Study](https://www.kaggle.com/code/carolw13/bellabeat-case-study)
 
 •	Olist Data Wrangling and Data Visualization using Power BI (to be update)
 
