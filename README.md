@@ -15,6 +15,7 @@ Here is a list of what I have covered so far:
 				:pencil2: SQL (Intermediate)  
 				:pencil2: Git / GitHub  
 				:pencil2: Power BI 
+				
 				:pencil2: More to come...  
 
 Projects:
