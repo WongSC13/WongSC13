@@ -19,9 +19,13 @@ Here is a list of what I have covered so far:
 
 Projects:
 •	[Python Data Wrangling – Netflix dataset](https://github.com/WongSC13/DataWrangling_Netflix)
+
 •	[Python SQL Twitter Scraping Project ETL](https://github.com/WongSC13/twitter_scraping_project_ETL.git)
+
 •	[21 Days to Data Challenge - OpenRefine, Flourish, Tableau, SQL, and Python](https://www.linkedin.com/pulse/what-i-learned-21-days-data-carol-wong/?trackingId=Gcukgvr9RUi2yPqwpj9S4g%3D%3D)
+
 •	[R Project – Bellabeat Case Study](https://github.com/WongSC13/R_Project_Bellabeat_Case_Study)
+
 •	Olist Data Wrangling and Data Visualization using Power BI (to be update)
 
  I am looking forwarding to learning from everyone on this GitHub community! Let's do it!   
