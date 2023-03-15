@@ -18,6 +18,7 @@ Here is a list of what I have covered so far:
 				:pencil2: More to come...  
 
 Projects:
+
 •	[Python Data Wrangling – Netflix dataset](https://github.com/WongSC13/DataWrangling_Netflix)
 
 •	[Python SQL Twitter Scraping Project ETL](https://github.com/WongSC13/twitter_scraping_project_ETL.git)
